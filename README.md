@@ -1,2 +1,2 @@
 # ffcc
-Final Fantasy: Crystal Chronicles (GameCube) data parsers
+Final Fantasy: Crystal Chronicles (GameCube) data parsers by BlackFurniture
